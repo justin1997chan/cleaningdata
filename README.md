@@ -12,3 +12,7 @@ run_analysis.R does the following:
 4. Label the dataset with descriptive variable names. 
 5. Create and print a new tidy data set with the average for each variable for each activity and subject, to newdata.txt. 
 
+How newdata.txt works
+1. First column = subject 
+2. 2nd to 67th column = mean and SD of feature variables 
+3. 68th column = activity
